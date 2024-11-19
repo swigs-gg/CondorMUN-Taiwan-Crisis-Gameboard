@@ -1,0 +1,278 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            103.960785,
+                            1.391099
+                        ],
+                        [
+                            103.985688,
+                            1.385443
+                        ],
+                        [
+                            103.999522,
+                            1.380316
+                        ],
+                        [
+                            104.003429,
+                            1.374172
+                        ],
+                        [
+                            103.991873,
+                            1.354926
+                        ],
+                        [
+                            103.974864,
+                            1.334459
+                        ],
+                        [
+                            103.954356,
+                            1.318101
+                        ],
+                        [
+                            103.931895,
+                            1.311469
+                        ],
+                        [
+                            103.907237,
+                            1.308743
+                        ],
+                        [
+                            103.887706,
+                            1.301256
+                        ],
+                        [
+                            103.852712,
+                            1.277289
+                        ],
+                        [
+                            103.846934,
+                            1.271918
+                        ],
+                        [
+                            103.844086,
+                            1.2685
+                        ],
+                        [
+                            103.838878,
+                            1.266262
+                        ],
+                        [
+                            103.82602,
+                            1.264309
+                        ],
+                        [
+                            103.801606,
+                            1.264797
+                        ],
+                        [
+                            103.789561,
+                            1.26789
+                        ],
+                        [
+                            103.784434,
+                            1.273871
+                        ],
+                        [
+                            103.77589,
+                            1.287584
+                        ],
+                        [
+                            103.755138,
+                            1.297105
+                        ],
+                        [
+                            103.730154,
+                            1.302924
+                        ],
+                        [
+                            103.708751,
+                            1.305243
+                        ],
+                        [
+                            103.665294,
+                            1.304104
+                        ],
+                        [
+                            103.647634,
+                            1.308417
+                        ],
+                        [
+                            103.640391,
+                            1.322252
+                        ],
+                        [
+                            103.644705,
+                            1.338039
+                        ],
+                        [
+                            103.674571,
+                            1.380316
+                        ],
+                        [
+                            103.678884,
+                            1.399237
+                        ],
+                        [
+                            103.683849,
+                            1.409898
+                        ],
+                        [
+                            103.695079,
+                            1.421332
+                        ],
+                        [
+                            103.708344,
+                            1.429389
+                        ],
+                        [
+                            103.717947,
+                            1.430976
+                        ],
+                        [
+                            103.739757,
+                            1.428127
+                        ],
+                        [
+                            103.762218,
+                            1.430976
+                        ],
+                        [
+                            103.79005,
+                            1.444281
+                        ],
+                        [
+                            103.804942,
+                            1.448635
+                        ],
+                        [
+                            103.831554,
+                            1.447089
+                        ],
+                        [
+                            103.857188,
+                            1.438707
+                        ],
+                        [
+                            103.932465,
+                            1.401109
+                        ],
+                        [
+                            103.960785,
+                            1.391099
+                        ]
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "NAME_LEN": 9,
+                "NAME_FR": "Singapour",
+                "ISO_A3": "SGP",
+                "ISO_A2": "SG",
+                "ABBREV_LEN": 5,
+                "FIPS_10_": "SN",
+                "ECONOMY": "6. Developing region",
+                "ADM0_A3_US": "SGP",
+                "NAME_NL": "Singapore",
+                "NAME_SORT": "Singapore",
+                "TINY": 3,
+                "ADM0_DIF": 0,
+                "SUBREGION": "South-Eastern Asia",
+                "ADM0_A3_UN": -99,
+                "NAME_RU": "Сингапур",
+                "GDP_MD_EST": 487900,
+                "NAME_ES": "Singapur",
+                "WIKIPEDIA": -99,
+                "GDP_YEAR": 2016,
+                "NAME_EL": "Σιγκαπούρη",
+                "NAME_EN": "Singapore",
+                "LEADER": "Pres. Tharman Shanmugaratnam",
+                "BRK_DIFF": 0,
+                "NAME_VI": "Singapore",
+                "POP_RANK": 13,
+                "ISO_N3": "702",
+                "BRK_NAME": "Singapore",
+                "REGION_UN": "Asia",
+                "REGION_WB": "East Asia & Pacific",
+                "NOTE_BRK": null,
+                "SUBUNIT": "Singapore",
+                "GU_A3": "SGP",
+                "NAME_HU": "Szingapúr",
+                "MAPCOLOR7": 5,
+                "MAPCOLOR8": 3,
+                "MAPCOLOR9": 7,
+                "NAME_HI": "सिंगापुर",
+                "FORMAL_FR": null,
+                "SU_A3": "SGP",
+                "POP_EST": 5888926,
+                "GEOUNIT": "Singapore",
+                "HOMEPART": 1,
+                "NAME_ALT": null,
+                "NAME_PL": "Singapur",
+                "BRK_A3": "SGP",
+                "NAME_PT": "Singapura",
+                "WOE_ID": 23424948,
+                "scalerank": 3,
+                "LASTCENSUS": 2010,
+                "UN_A3": "702",
+                "LABELRANK": 6,
+                "NAME_SV": "Singapore",
+                "NAME_BN": "সিঙ্গাপুর",
+                "ABBREV": "Sing.",
+                "MIN_ZOOM": 0,
+                "ADM0_A3_IS": "SGP",
+                "NAME_JA": "シンガポール",
+                "ADMIN": "Singapore",
+                "NAME_AR": "سنغافورة",
+                "SOVEREIGNT": "Singapore",
+                "ISO_A3_EH": "SGP",
+                "MAX_LABEL": 9,
+                "NAME_IT": "Singapore",
+                "NAME": "Singapore",
+                "INCOME_GRP": "2. High income: nonOECD",
+                "SOV_A3": "SGP",
+                "NOTE_ADM0": null,
+                "NAME_ID": "Singapura",
+                "TYPE": "Sovereign country",
+                "NAME_CIAWF": "Singapore",
+                "NAME_DE": "Singapur",
+                "ADM0_A3": "SGP",
+                "WIKIDATAID": "Q334",
+                "POSTAL": "SG",
+                "LONG_LEN": 9,
+                "WOE_ID_EH": 23424948,
+                "LEVEL": 2,
+                "FORMAL_EN": "Republic of Singapore",
+                "POP_YEAR": 2017,
+                "WOE_NOTE": "Exact WOE match as country",
+                "ADM0_A3_WB": -99,
+                "CONTINENT": "Asia",
+                "NAME_TR": "Singapur",
+                "GEOU_DIF": 0,
+                "MAPCOLOR13": 3,
+                "BRK_GROUP": null,
+                "SU_DIF": 0,
+                "featurecla": "Admin-0 country",
+                "MIN_LABEL": 4,
+                "NAME_ZH": "新加坡",
+                "WB_A2": "SG",
+                "WB_A3": "SGP",
+                "NAME_KO": "싱가포르",
+                "NE_ID": 1159321247,
+                "NAME_LONG": "Singapore"
+            }
+        }
+    ],
+    "style": {
+        "stroke": "#000000",
+        "fill": "#3498DB",
+        "stroke-width": 1,
+        "fill-opacity": 0.8
+    }
+}
