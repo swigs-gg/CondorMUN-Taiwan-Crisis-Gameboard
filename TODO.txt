@@ -1,0 +1,5 @@
+Fix the border between the African Union and South Africa
+Fix the border of the EU so that it's a single continuous entity
+Add right click functionality to the EU
+Add country name and leader to the EU
+Fix the border between the EU and Russia (Kaliningrad)

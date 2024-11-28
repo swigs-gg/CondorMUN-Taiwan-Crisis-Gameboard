@@ -6,7 +6,8 @@
             "id": "SAU",
             "properties": {
                 "NAME_EN": "Saudi Arabia",
-                "LEADER": "Prince Mohammed bin Salmon"
+                "LEADER": "Prince Mohammed bin Salmon",
+                "TEAM": 0
             },
             "geometry": {
                 "type": "Polygon",
