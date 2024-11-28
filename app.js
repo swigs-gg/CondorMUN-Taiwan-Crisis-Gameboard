@@ -1,3 +1,5 @@
+const flags = new Map();
+flags["AfricanUnion"] = "flags/AfricanUnion.png";
 
 // Set up map
 var map = L.map('map', {
@@ -33,6 +35,24 @@ country_data.update = function (props) {
 
 country_data.addTo(map);
 
+var flag_selector = L.control();
+
+flag_selector.onAdd = function() {
+    this._div = L.DomUtil.create('div', 'flag_selector');
+    this.update();
+    return this._div;
+}
+
+flag_selector.update = function() {
+    this._div.innerHTML = '<div class="dropdown">' +
+    '<button class="dropbtn">Flag Selector</button>' +
+    '<div class="dropdown-content">' +
+    '<a href="#" onclick="setFlag("AfricanUnion")">African Union</a>' +
+    '</div></div>';
+}
+
+flag_selector.addTo(map);
+
 // Handlers
 function style(team) {
     // taiwan and allies
@@ -62,6 +82,10 @@ function style(team) {
             weight: 2,
         }
     }
+}
+
+function setFlag(country) {
+    
 }
 
 function highlightFeature(e) {

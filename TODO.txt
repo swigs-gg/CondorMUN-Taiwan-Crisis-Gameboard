@@ -3,3 +3,7 @@ Fix the border of the EU so that it's a single continuous entity
 Add right click functionality to the EU
 Add country name and leader to the EU
 Fix the border between the EU and Russia (Kaliningrad)
+Add French Polynesia to France
+
+Make flag selector able to update which flag to use as a marker
+Add control to show which flag is currently selected as a marker
